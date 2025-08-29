@@ -1,1 +1,1 @@
-https://arunkumar00123.github.io/portfolio-page/
+A fully responsive personal portfolio website built to showcase my projects, technical skills, and professional experience.
